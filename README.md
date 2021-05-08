@@ -1,2 +1,2 @@
 # farmchest-
-Farmchest chest plugin for pocketmine 
+Farmchest chest plugin for pocketmine open source
